@@ -1,0 +1,2 @@
+include ':network', ':ui', ':core', ':app'
+rootProject.name = "AndroidMVVM"
